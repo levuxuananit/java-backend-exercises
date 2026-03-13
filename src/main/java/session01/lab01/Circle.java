@@ -1,4 +1,4 @@
-package session01;
+package session01.lab01;
 
 public class Circle {
     double radius;
